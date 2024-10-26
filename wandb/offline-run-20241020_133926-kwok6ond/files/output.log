@@ -1,0 +1,53 @@
+  7%|█████▍                                                                   | 74/1000 [29:51<6:13:33, 24.21s/it]
+Traceback (most recent call last):
+  File "/Users/karthik/PycharmProjects/BN-WVAD_UCF/main.py", line 135, in <module>
+    metric = test(net, test_loader, test_info, step)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/BN-WVAD_UCF/test.py", line 63, in test
+    frame_predicts = get_predicts(test_loader, net)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/BN-WVAD_UCF/test.py", line 15, in get_predicts
+    load_iter = iter(test_loader)
+                ^^^^^^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/video_features/video_features/venv/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 439, in __iter__
+    return self._get_iterator()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/video_features/video_features/venv/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 387, in _get_iterator
+    return _MultiProcessingDataLoaderIter(self)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/video_features/video_features/venv/lib/python3.12/site-packages/torch/utils/data/dataloader.py", line 1040, in __init__
+    w.start()
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+                  ^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/context.py", line 224, in _Popen
+    return _default_context.get_context().Process._Popen(process_obj)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/context.py", line 289, in _Popen
+    return Popen(process_obj)
+           ^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_spawn_posix.py", line 32, in __init__
+    super().__init__(process_obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_fork.py", line 19, in __init__
+    self._launch(process_obj)
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/popen_spawn_posix.py", line 58, in _launch
+    self.pid = util.spawnv_passfds(spawn.get_executable(),
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Library/Frameworks/Python.framework/Versions/3.12/lib/python3.12/multiprocessing/util.py", line 451, in spawnv_passfds
+    errpipe_read, errpipe_write = os.pipe()
+                                  ^^^^^^^^^
+OSError: [Errno 24] Too many open files
+AUC:  79.20633217014982
+AUC:  80.04687699195357
+AUC:  81.1261437303282
+AUC:  80.76911287376856
+AUC:  83.17062215486376
+AUC:  81.51101375813015
+AUC:  81.13374335131411
+AUC:  80.50646453139912
+AUC:  81.63416768573238
+AUC:  82.01628436693251
+AUC:  83.31639186295962
+AUC:  81.93519423951777
+AUC:  81.11689692260518
+AUC:  81.6090829534583

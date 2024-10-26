@@ -1,0 +1,13 @@
+Traceback (most recent call last):
+  File "/Users/karthik/PycharmProjects/BN-WVAD_UCF/main.py", line 106, in <module>
+    metric = test(net, test_loader, test_info, 0)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/BN-WVAD_UCF/test.py", line 61, in test
+    frame_predicts = get_predicts(test_loader, net)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/BN-WVAD_UCF/test.py", line 20, in get_predicts
+    _data = _data.cuda()
+            ^^^^^^^^^^^^
+  File "/Users/karthik/PycharmProjects/video_features/video_features/venv/lib/python3.12/site-packages/torch/cuda/__init__.py", line 293, in _lazy_init
+    raise AssertionError("Torch not compiled with CUDA enabled")
+AssertionError: Torch not compiled with CUDA enabled

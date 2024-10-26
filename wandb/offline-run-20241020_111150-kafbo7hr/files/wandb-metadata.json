@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-15.0-arm64-arm-64bit",
+  "python":  "3.12.0",
+  "startedAt":  "2024-10-20T15:11:50.458107Z",
+  "args":  [
+    "--version",
+    "train",
+    "--root_dir",
+    "/Volumes/KARTUSB/video_data_sets/I3D/"
+  ],
+  "program":  "/Users/karthik/PycharmProjects/BN-WVAD_UCF/main.py",
+  "codePath":  "main.py",
+  "root":  "/Users/karthik/PycharmProjects/BN-WVAD_UCF",
+  "host":  "Karthikeyans-MacBook-Pro.local",
+  "username":  "karthik",
+  "executable":  "/Users/karthik/PycharmProjects/video_features/video_features/venv/bin/python",
+  "codePathLocal":  "main.py",
+  "cpu_count":  11,
+  "cpu_count_logical":  11,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "142625861632"
+    }
+  },
+  "memory":  {
+    "total":  "38654705664"
+  },
+  "cpu":  {
+    "count":  11,
+    "countLogical":  11
+  },
+  "gpuapple":  {
+    "gpuType":  "Apple M3 Pro",
+    "vendor":  "sppci_vendor_Apple",
+    "cores":  14
+  }
+}

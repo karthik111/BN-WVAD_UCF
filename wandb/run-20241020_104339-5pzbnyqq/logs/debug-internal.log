@@ -1,0 +1,18 @@
+{"time":"2024-10-20T10:43:39.073617-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-20T10:43:39.073675-04:00","level":"INFO","msg":"created symlink","path":"/Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/run-20241020_104339-5pzbnyqq/logs/debug-core.log"}
+{"time":"2024-10-20T10:43:39.084637-04:00","level":"INFO","msg":"created new stream","id":"5pzbnyqq"}
+{"time":"2024-10-20T10:43:39.084682-04:00","level":"INFO","msg":"stream: started","id":"5pzbnyqq"}
+{"time":"2024-10-20T10:43:39.084704-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"5pzbnyqq"}}
+{"time":"2024-10-20T10:43:39.084689-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"5pzbnyqq"}}
+{"time":"2024-10-20T10:43:39.084736-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"5pzbnyqq"}}
+{"time":"2024-10-20T10:43:39.382112-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-20T10:43:39.384902-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-20T10:43:39.385524-04:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-10-20T10:43:42.48435-04:00","level":"INFO","msg":"stream: closing","id":"5pzbnyqq"}
+{"time":"2024-10-20T10:43:42.484414-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-20T10:43:42.484431-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-20T10:43:43.057465-04:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-10-20T10:43:43.225553-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"5pzbnyqq"}}
+{"time":"2024-10-20T10:43:43.225646-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"5pzbnyqq"}}
+{"time":"2024-10-20T10:43:43.225771-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"5pzbnyqq"}}
+{"time":"2024-10-20T10:43:43.225831-04:00","level":"INFO","msg":"stream: closed","id":"5pzbnyqq"}

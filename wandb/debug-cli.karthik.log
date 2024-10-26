@@ -1,0 +1,246 @@
+2024-10-20 12:10:07 INFO open for scan: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/run-nb5w1psw.wandb
+2024-10-20 12:10:07 INFO watching files in: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files
+2024-10-20 12:10:07 INFO run started: nb5w1psw with start time 1729440441.057498
+2024-10-20 12:10:07 INFO saving file wandb-metadata.json with policy now
+2024-10-20 12:10:07 INFO saving file code/main.py with policy now
+2024-10-20 12:10:07 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmpuqjhyibjwandb/lpoe2tjo-code/main.py
+2024-10-20 12:10:07 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmpuqjhyibjwandb/jvrols0s-wandb-metadata.json
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpdlv1yxpu
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpz354bmts
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpo5mpi22n
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpu1djrssu
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpub86d4fq
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpbvdbij4m
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpo9nodik4
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp8qlg_0s4
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpcjd9ahx4
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp5w4edksd
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp4l0udeq7
+2024-10-20 12:10:08 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpy4vi5o5h
+2024-10-20 12:10:08 INFO Uploaded file /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpe3gijx13
+2024-10-20 12:10:08 INFO Uploaded file /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp5161zrqc
+2024-10-20 12:10:08 INFO Uploaded file /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpkgg62cz0
+2024-10-20 12:10:08 INFO Uploaded file /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp50recrpj
+2024-10-20 12:10:08 INFO sent artifact source-BN-WVAD-main.py - {'id': 'QXJ0aWZhY3Q6MTI4Nzg4Njc0Ng==', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQzNDcwMjIxOQ==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6MTI4NzgyNzYwOQ==', 'versionIndex': 3}}}
+2024-10-20 12:10:08 INFO saving file requirements.txt with policy now
+2024-10-20 12:10:08 INFO saving file wandb-metadata.json with policy now
+2024-10-20 12:10:08 INFO saving file wandb-summary.json with policy end
+2024-10-20 12:10:08 INFO shutting down sender
+2024-10-20 12:10:09 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmpuqjhyibjwandb/djow72na-requirements.txt
+2024-10-20 12:10:09 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmpuqjhyibjwandb/isxmfno4-wandb-metadata.json
+2024-10-20 12:10:09 INFO file/dir modified: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/output.log
+2024-10-20 12:10:09 INFO file/dir created: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/wandb-summary.json
+2024-10-20 12:10:10 INFO shutting down directory watcher
+2024-10-20 12:10:11 INFO file/dir modified: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/output.log
+2024-10-20 12:10:11 INFO scan: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files
+2024-10-20 12:10:11 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/requirements.txt requirements.txt
+2024-10-20 12:10:11 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/output.log output.log
+2024-10-20 12:10:11 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/config.yaml config.yaml
+2024-10-20 12:10:11 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/wandb-summary.json wandb-summary.json
+2024-10-20 12:10:11 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/wandb-metadata.json wandb-metadata.json
+2024-10-20 12:10:11 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/code/main.py code/main.py
+2024-10-20 12:10:11 INFO shutting down file pusher
+2024-10-20 12:10:11 INFO waiting for file pusher
+2024-10-20 12:10:11 INFO Uploaded file /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/config.yaml
+2024-10-20 12:10:11 INFO Uploaded file /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/output.log
+2024-10-20 12:10:11 INFO Uploaded file /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_120721-nb5w1psw/files/wandb-summary.json
+2024-10-20 12:10:11 INFO file stream finish called
+2024-10-20 12:10:12 INFO file stream finish is done
+2024-10-20 14:12:46 INFO open for scan: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/run-kwok6ond.wandb
+2024-10-20 14:12:47 INFO watching files in: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files
+2024-10-20 14:12:47 INFO run started: kwok6ond with start time 1729445966.075403
+2024-10-20 14:12:47 INFO saving file wandb-metadata.json with policy now
+2024-10-20 14:12:47 INFO saving file code/main.py with policy now
+2024-10-20 14:12:47 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmp04g43r78wandb/psidmutc-code/main.py
+2024-10-20 14:12:47 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmp04g43r78wandb/68na5nz9-wandb-metadata.json
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp2iywe24m
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpwuxvrty2
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpesl8e3ow
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpboi4p4qo
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmphw0h9ugq
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpm9hupl60
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpt84y1qqc
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmplxi1jmjs
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp3ywkn1gr
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpblvcv1pa
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp0yyva_7t
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpxii9tn4l
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpyt2ifn5s
+2024-10-20 14:12:47 INFO Skipped uploading /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpo5q9ryz2
+2024-10-20 14:12:48 INFO Uploaded file /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmp2wx7q6dr
+2024-10-20 14:12:48 INFO Uploaded file /Users/karthik/Library/Application Support/wandb/artifacts/staging/tmpk3axr4ko
+2024-10-20 14:12:49 INFO sent artifact source-BN-WVAD-main.py - {'id': 'QXJ0aWZhY3Q6MTI4Nzk3ODg1Mg==', 'state': 'PENDING', 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjQzNDcwMjIxOQ==', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6MTI4Nzg4Njc0Ng==', 'versionIndex': 4}}}
+2024-10-20 14:12:49 INFO saving file requirements.txt with policy now
+2024-10-20 14:12:49 INFO saving file wandb-metadata.json with policy now
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO saving file wandb-summary.json with policy end
+2024-10-20 14:12:49 INFO shutting down sender
+2024-10-20 14:12:49 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmp04g43r78wandb/iuyvf9oe-requirements.txt
+2024-10-20 14:12:49 INFO Uploaded file /var/folders/ms/723jt1kd03dg48_tlpw_qp5m0000gn/T/tmp04g43r78wandb/c1phvzgt-wandb-metadata.json
+2024-10-20 14:12:50 INFO file/dir modified: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/output.log
+2024-10-20 14:12:50 INFO file/dir created: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/wandb-summary.json
+2024-10-20 14:12:51 INFO shutting down directory watcher
+2024-10-20 14:12:52 INFO file/dir modified: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/output.log
+2024-10-20 14:12:52 INFO scan: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files
+2024-10-20 14:12:52 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/requirements.txt requirements.txt
+2024-10-20 14:12:52 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/output.log output.log
+2024-10-20 14:12:52 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/config.yaml config.yaml
+2024-10-20 14:12:52 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/wandb-summary.json wandb-summary.json
+2024-10-20 14:12:52 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/wandb-metadata.json wandb-metadata.json
+2024-10-20 14:12:52 INFO scan save: /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/code/main.py code/main.py
+2024-10-20 14:12:52 INFO shutting down file pusher
+2024-10-20 14:12:52 INFO waiting for file pusher
+2024-10-20 14:12:52 INFO Uploaded file /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/output.log
+2024-10-20 14:12:52 INFO Uploaded file /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/config.yaml
+2024-10-20 14:12:52 INFO Uploaded file /Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_133926-kwok6ond/files/wandb-summary.json
+2024-10-20 14:12:53 INFO file stream finish called
+2024-10-20 14:12:53 INFO file stream finish is done

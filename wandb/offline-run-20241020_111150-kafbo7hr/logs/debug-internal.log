@@ -1,0 +1,17 @@
+{"time":"2024-10-20T11:11:50.468227-04:00","level":"INFO","msg":"using version","core version":"0.18.3"}
+{"time":"2024-10-20T11:11:50.468321-04:00","level":"INFO","msg":"created symlink","path":"/Users/karthik/PycharmProjects/BN-WVAD_UCF/wandb/offline-run-20241020_111150-kafbo7hr/logs/debug-core.log"}
+{"time":"2024-10-20T11:11:50.473913-04:00","level":"INFO","msg":"created new stream","id":"kafbo7hr"}
+{"time":"2024-10-20T11:11:50.473965-04:00","level":"INFO","msg":"stream: started","id":"kafbo7hr"}
+{"time":"2024-10-20T11:11:50.473959-04:00","level":"INFO","msg":"writer: Do: started","stream_id":{"value":"kafbo7hr"}}
+{"time":"2024-10-20T11:11:50.473999-04:00","level":"INFO","msg":"sender: started","stream_id":{"value":"kafbo7hr"}}
+{"time":"2024-10-20T11:11:50.473991-04:00","level":"INFO","msg":"handler: started","stream_id":{"value":"kafbo7hr"}}
+{"time":"2024-10-20T11:11:50.477906-04:00","level":"INFO","msg":"wandb-core","!BADKEY":null}
+{"time":"2024-10-20T11:11:50.478403-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-10-20T11:11:50.478892-04:00","level":"ERROR","msg":"git repo not found","error":"repository does not exist"}
+{"time":"2024-10-20T11:11:53.437269-04:00","level":"INFO","msg":"stream: closing","id":"kafbo7hr"}
+{"time":"2024-10-20T11:11:53.437296-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-10-20T11:11:53.437349-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-10-20T11:11:53.437474-04:00","level":"INFO","msg":"handler: closed","stream_id":{"value":"kafbo7hr"}}
+{"time":"2024-10-20T11:11:53.437486-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":{"value":"kafbo7hr"}}
+{"time":"2024-10-20T11:11:53.437492-04:00","level":"INFO","msg":"sender: closed","stream_id":{"value":"kafbo7hr"}}
+{"time":"2024-10-20T11:11:53.437618-04:00","level":"INFO","msg":"stream: closed","id":"kafbo7hr"}
